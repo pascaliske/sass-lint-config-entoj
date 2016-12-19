@@ -1,0 +1,34 @@
+{
+  "name": "sass-lint-config-entoj",
+  "description": "Shareable sass-lint config for the entoj project.",
+  "version": "1.0.9",
+  "license": "MIT",
+  "author": {
+    "name": "Pascal Iske",
+    "email": "info@pascal-iske.de",
+    "url": "https://pascal-iske.de"
+  },
+  "homepage": "https://github.com/pascaliske/sass-lint-config-entoj",
+  "readme": "README.md",
+  "keywords": [
+    "sass-lint",
+    "linter",
+    "config",
+    "check",
+    "style",
+    "code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascaliske/sass-lint-config-entoj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pascaliske/sass-lint-config-entoj/issues"
+  },
+  "devDependencies": {
+    "sass-lint": "^1.10.2"
+  },
+  "peerDependencies": {
+    "sass-lint": ">=1.10.2"
+  }
+}
