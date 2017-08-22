@@ -1,4 +1,4 @@
-*.sublime-*
 .DS_Store
+*.sublime-*
 yarn.lock
 node_modules
