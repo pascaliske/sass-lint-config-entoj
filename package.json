@@ -1,7 +1,7 @@
 {
   "name": "sass-lint-config-entoj",
   "description": "Shareable sass-lint config for the entoj project.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": {
     "name": "Pascal Iske",
