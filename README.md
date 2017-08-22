@@ -3,7 +3,7 @@ Shareable sass-lint config for the entoj project.
 
 ## Install
 ```bash
-npm install sass-lint-config-entoj
+yarn add sass-lint-config-entoj --dev
 ```
 
 ## Usage
@@ -11,13 +11,7 @@ The sass-lint shareable configs can be used with the `config-file` feature of `.
 
 Learn more about [shareable configs](https://github.com/sasstools/sass-lint/blob/develop/docs/options/config-file.md) on the github wiki of sass-lint.
 
-To use the Entoj shareable config, first run this:
-
-```bash
-npm install --save-dev sass-lint-config-entoj
-```
-
-Then, add this to your .sass-lint.yml file:
+To use the Entoj shareable config, first install it and then, add this to your .sass-lint.yml file:
 
 ```
 options:
