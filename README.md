@@ -1,4 +1,7 @@
 # Entoj Shareable sass-lint config
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pascaliske/sass-lint-config-entoj.svg)](https://greenkeeper.io/)
+
 Shareable sass-lint config for the entoj project.
 
 ## Install
