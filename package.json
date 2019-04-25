@@ -26,7 +26,7 @@
     "url": "https://github.com/pascaliske/sass-lint-config-entoj/issues"
   },
   "devDependencies": {
-    "sass-lint": "^1.10.2"
+    "sass-lint": "^1.13.0"
   },
   "peerDependencies": {
     "sass-lint": ">=1.10.2"
